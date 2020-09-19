@@ -1,0 +1,37 @@
+td 
+{
+    background-color: #ffffff;
+    text-align: center;
+    vertical-align: middle;
+    color: #000000;
+    height: 20px;
+    border: #302c2c 1px solid;
+}
+th{
+    background-color: #324056;
+    border: 2px solid rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    border-top: black;
+}
+
+.tcol{
+    color: #000000;
+    border: 0px solid #ffffff;
+    padding-left: 130px;
+    padding-top: -90px;
+}   
+
+
+.changeSave{
+    background-color: #b411f5;
+    height: 20px;
+    padding: 20px 20px;
+    display: none;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    float: right;
+    margin-left: 50px;
+    position: fixed;
+}

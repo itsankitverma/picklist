@@ -1,0 +1,40 @@
+.right{
+    float: right;
+}
+.left{
+    float: left;
+}
+.center{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    margin-left: -50px !important;
+}
+.ordrit{
+    margin-left: 360px;
+}
+.fz{
+    font-size: 15px;
+}
+.fonts{
+    font-size: 15px;
+    
+}
+.fontb{
+    font-size: 18px;
+    margin-right: 90px;
+    padding-left: 140px;
+}
+
+.fontT{
+    font-size: 12px;
+    border: 2px solid black;
+}
+
+td{
+    height: 0.4px;
+}
+.palletmargin{
+    margin-top: 20px;
+}

@@ -1,0 +1,57 @@
+.bcol{
+    background-color: #324056;
+    color: white;
+    margin-bottom: auto;
+}
+
+.bcoltable{
+    background-color: #324056;
+    color: white;
+    margin-bottom: auto;
+    border-bottom: 1px solid gold;
+}
+
+.bcolheader{
+    background-color: #324056;
+    border-top: 1px solid  gold;
+    border-bottom: 1px solid  gold;
+    color: white;
+    margin-bottom: auto;
+    
+}
+
+.OrderHdr{
+    background-color: #105cd6;
+    color: white;
+}
+.fontsize{
+    font-size: 30px;
+    margin-left: 20px;
+}
+.fontsizer{
+    font-size: 20px;
+}
+.id{
+    
+    font-size: 14px;
+    margin-left: -80px;
+}
+.upc{
+    margin-left: 20px;
+}
+
+.fc{
+    margin-top: 10px;
+    width: 137px;
+    height: 50px;
+}
+
+.bgc{
+    border-style: solid;
+    border: 1px solid #324056;
+    margin-left: 60px ;
+}
+
+.fontsizeTable{
+    font-size: 100px;
+}
